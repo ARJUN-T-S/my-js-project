@@ -13,12 +13,12 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4D59FB;
+  background: red;
 }
 
 ::selection {
   color: #fff;
-  background: #4D59FB;
+  background: black;
 }
 
 .dictionary-wrapper {
